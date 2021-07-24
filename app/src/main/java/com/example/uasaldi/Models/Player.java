@@ -1,4 +1,5 @@
-package com.example.uasaldi.MainApp.Models;
+package com.example.uasaldi.Models;
+
 import java.util.ArrayList;
 
 public class Player {

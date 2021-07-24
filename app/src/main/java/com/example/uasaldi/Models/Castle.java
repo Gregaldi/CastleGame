@@ -1,4 +1,4 @@
-package com.example.uasaldi.MainApp.Models;
+package com.example.uasaldi.Models;
 
 public class Castle {
     public String getCastleType() {

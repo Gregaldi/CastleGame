@@ -1,4 +1,4 @@
-package com.example.uasaldi.MainApp.Models;
+package com.example.uasaldi.Models;
 
 public class Heroes {
     private int level;
@@ -23,7 +23,7 @@ public class Heroes {
 
 }
 
-class Infantry extends Heroes{
+class Infantry extends Heroes {
     private final String heroesClass = "Infantry";
 
     public Infantry(int level) {
@@ -31,7 +31,7 @@ class Infantry extends Heroes{
     }
 }
 
-class Cavalry extends Heroes{
+class Cavalry extends Heroes {
     private final String heroesClass = "Cavalry";
 
     public Cavalry(int level) {
@@ -39,7 +39,7 @@ class Cavalry extends Heroes{
     }
 }
 
-class Archer extends Heroes{
+class Archer extends Heroes {
     private final String heroesClass = "Archer";
 
     public Archer(int level) {
@@ -47,7 +47,7 @@ class Archer extends Heroes{
     }
 }
 
-class Catapult extends Heroes{
+class Catapult extends Heroes {
     private final String heroesClass = "Catapult";
 
     public Catapult(int level) {

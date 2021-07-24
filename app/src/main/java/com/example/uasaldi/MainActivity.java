@@ -1,14 +1,13 @@
-package com.example.uasaldi.MainApp;
-
-import androidx.appcompat.app.AppCompatActivity;
+package com.example.uasaldi;
 
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
-import com.example.uasaldi.MainApp.Models.Player;
-import com.example.uasaldi.R;
+import androidx.appcompat.app.AppCompatActivity;
+
+import com.example.uasaldi.Models.Player;
 
 public class MainActivity extends AppCompatActivity {
 
